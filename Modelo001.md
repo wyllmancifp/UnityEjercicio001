@@ -15,8 +15,8 @@ Integrantes:
 
 Propuestas:
 
-1.1 - <Nombre>
-1.2 - <Descripción>
+1.1 - <Nombre>  
+1.2 - <Descripción>  
 1.3 - <Objetivos>
 1.4 - <Público objetivo>
 1.5 - <Competencia>
